@@ -47,8 +47,8 @@ const music_list = [
     },
     {
         img : 'resources/images/artcell.jpg',
-        name : 'Artcell',
-        artist : 'George Lincoln D Costa',
+        name : 'Dukkho Bilash',
+        artist : 'Artcell',
         music : 'resources/music/Dukkho Bilash.mp3'
     },
     {
